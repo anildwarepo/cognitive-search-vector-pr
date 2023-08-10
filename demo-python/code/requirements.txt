@@ -1,0 +1,5 @@
+azure-search-documents --pre
+openai
+python-dotenv
+tenacity
+openai[datalib]
